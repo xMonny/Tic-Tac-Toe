@@ -1,5 +1,4 @@
-﻿using System.IO;
-using System.Runtime.InteropServices;
+﻿using System.Runtime.InteropServices;
 using Microsoft.Office.Interop.Excel;
 using _Excel = Microsoft.Office.Interop.Excel;
 
@@ -30,18 +29,6 @@ namespace TicTacToe
 		public Excel(string newPath, int sheet)
 		{
 			this.path = newPath;
-			if (!File.Exists(path))
-			{
-				this.wb = excel.Workbooks.Add(1);
-				this.ws = (_Excel.Worksheet)wb.Worksheets.get_Item(1);
-				this.ws.Cells[1, 1] = "Player 1";
-				this.ws.Cells[1, 2] = "Player 2";
-				this.ws.Cells[1, 3] = "Result";
-				this.ws.Range["A1:C1"].ColumnWidth = 15;
-				Range cells = wb.Worksheets[1].Cells;
-				cells.NumberFormat = "@";
-				this.wb.SaveAs(path);
-			}
 			this.wb = this.excel.Workbooks.Open(path, ReadOnly: false);
 			this.ws = this.wb.Worksheets[sheet];
 		}

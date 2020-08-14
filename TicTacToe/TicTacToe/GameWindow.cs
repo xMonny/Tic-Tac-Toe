@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace TicTacToe
@@ -430,7 +431,7 @@ namespace TicTacToe
         private void saveRecord()
         {
             string startupPath = System.IO.Directory.GetCurrentDirectory();
-            string path = startupPath + "\\Records.xlsx";
+            string path = startupPath + "\\Records.xls";
             Excel excel = new Excel(path, 1);
             string player1 = TextBoxPlayer1.Text;
             string player2 = TextBoxPlayer2.Text;
