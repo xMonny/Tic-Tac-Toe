@@ -1,0 +1,15 @@
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\bin\Debug\TicTacToe2020.exe.config
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\bin\Debug\TicTacToe2020.exe
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\bin\Debug\TicTacToe2020.pdb
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.csprojAssemblyReference.cache
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.Properties.Resources.resources
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.csproj.GenerateResource.cache
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.csproj.CoreCompileInputs.cache
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.exe
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.pdb
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.StartWindow.resources
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.RulesWindow.resources
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.GameWindow.resources
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.ModeWindow.resources
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.csproj.ResolveComReference.cache
+C:\Users\Симона\Desktop\TicTacToe2020\TicTacToe2020\obj\Debug\TicTacToe2020.WaitingWindow.resources
