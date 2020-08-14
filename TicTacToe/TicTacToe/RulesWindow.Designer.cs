@@ -174,10 +174,10 @@
             this.label9.Font = new System.Drawing.Font("Times New Roman", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label9.Location = new System.Drawing.Point(198, 596);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(452, 112);
+            this.label9.Size = new System.Drawing.Size(464, 112);
             this.label9.TabIndex = 32;
             this.label9.Text = "Start a new game in selected mode,\r\ndoes not change the nicknames. \r\nIt saves the" +
-    " result in excel file \"Results.xls\" \r\nand sets the result to \"0:0\"";
+    " result in excel file \"Results.xlsx\" \r\nand sets the result to \"0:0\"";
             // 
             // label10
             // 
