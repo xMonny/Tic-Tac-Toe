@@ -29,4 +29,4 @@ Then, it restarts current result and starts new game between Player 1 and Player
 </p>
 
 **_You can see more images in "Screenshots". </br>
-Even more, you can test the application after downloading TicTacToe.exe from /TicTacToe/Debug/bin folder_**
+Even more, you can test the application after downloading TicTacToe.exe from [here](./TicTacToe/bin/Debug/)_**
